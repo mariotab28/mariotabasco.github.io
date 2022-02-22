@@ -76,7 +76,7 @@
   font-size: 30px;
   right: 30px;
   bottom: 30px;
-  transition: background 0.5s;
+  transition: background 0.15s;
   z-index: 11;
 }
 
